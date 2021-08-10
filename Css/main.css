@@ -1,0 +1,28 @@
+.body{
+    background: url(../img/maxresdefault.jpg);
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 98%;
+    margin: 30px;
+    padding: 35px 35px;
+    margin-top: 45px;
+    padding-bottom: 30px;
+    border-radius: 3px;    
+    text-align: center;
+ 
+
+}
+
+
+.h1{
+    text-align: center;
+    color: rgb(0, 195, 255);
+}
+
+.letra{
+    text-align: justify;
+    color:#ECF0F1;
+    ;
+}
+
